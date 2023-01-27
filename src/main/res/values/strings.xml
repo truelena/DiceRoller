@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="textview">TextView</string>
+    <string name="truelena">truelena.toString()</string>
+    <string name="Truelena">truelena</string>
+    <string name="diceimage_contentdescription_diceroll_tostring">diceImage.contentDescription = diceRoll.toString()</string>
+    <string name="todo">TODO</string>
+    <string name="diceimage_contentdescription_diceroll_tostring2">diceImage.contentDescription = diceRoll.toString()</string>
+</resources>
